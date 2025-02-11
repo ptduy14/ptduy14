@@ -1,20 +1,30 @@
 <p align="center">
-<img src="https://github.com/ptduy14/ptduy14/blob/main/imgs/banner.png" />
-</p>
-
-<p align="center">
   <img src="https://badges.pufler.dev/visits/ptduy14/ptduy14"/> 
   <img src="https://badges.pufler.dev/repos/ptduy14"/>
-  <img src="https://badges.pufler.dev/commits/monthly/ptduy14" />
+  <img src="https://badges.pufler.dev/commits/monthly/ptduy14"/>
 </p>
 
-<p align="center"><a href="https://portfolio-ptduy14s-projects.vercel.app/" target="_blank">Check out my website.</a></p>
+<h2 align="center">🌐 About Me</h2>
 
 <p align="center">
-  I'm a fourth-year student pursuing an Information Technology Engineering degree 🎓 at Can Tho University of Technology 🏛. I'm a passionate learner, always willing to learn and work across various technologies and fields 💡. I love exploring new technologies and continually improving myself to be better than yesterday ✨. My GitHub page contains several personal projects that I have completed based on the fundamental knowledge I have self-taught during my time at university. If you find them useful, you can download and refer to them for free 👨🏻‍💻.
+  <a href="https://portfolio-ptduy14s-projects.vercel.app/" target="_blank"><b>🌍 Check out my portfolio website</b></a>
 </p>
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+I am a **web developer** with expertise in both **front-end and back-end technologies**. I specialize in **building dynamic and responsive web applications** using:
+
+- **Front-end:** JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
+- **Back-end:** NestJS, Laravel, RESTful APIs, MySQL, MSSQL  
+- **Others:** Docker (basic), Git, Firebase (authentication & real-time data)  
+
+Beyond web development, I have hands-on experience in **blockchain technology**, having built a **private blockchain** for student grade management using **Solidity, Geth, and Ethers.js**.  
+
+I am a **passionate learner** who enjoys exploring new technologies and **continuously improving my skills**. I am **always open to learning and adapting to new technologies** to meet the demands of my work.  
+
+📌 **Check out my GitHub projects to see my work in action!** 🚀  
+
+---
+
+<h2 align="center">⚙️ Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -30,8 +40,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-<h2 align="center">My Stats 🔥</h2>
+---
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ptduy14&theme=radical" alt="GitHub Streak" /></a>
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ptduy14&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
