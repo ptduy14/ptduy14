@@ -1,10 +1,10 @@
 <h2 align="center">🌐 About Me</h2>
 
 <p align="center">
-  <a href="https://portfolio-ptduy14s-projects.vercel.app/" target="_blank"><b>🌍 Check out my portfolio website</b></a>
+  <a href="https://duypt14.is-a.dev" target="_blank"><b>🌍 Check out my portfolio website</b></a>
 </p>
 
-I am a **web developer** with expertise in both **front-end and back-end technologies**. I specialize in **building dynamic and responsive web applications** using:
+I am a **Software Engineer | web developer** with expertise in both **front-end and back-end technologies**. I specialize in **building dynamic and responsive web applications** using:
 
 - **Front-end:** JavaScript, TypeScript, React.js, Next.js, Tailwind CSS  
 - **Back-end:** NestJS, Laravel, RESTful APIs, MySQL, MSSQL  
