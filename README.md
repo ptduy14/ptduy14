@@ -1,5 +1,7 @@
-<h2 align="center">🌐 About Me</h2>
+<p align="center">
+  Full-Stack Developer passionate about SaaS, React, and Node.js.
+</p>
 
 <p align="center">
-  <a href="https://duypt14.is-a.dev" target="_blank"><b>🌍 Check out my portfolio</b></a>
+  🌐 <a href="https://duypt14.is-a.dev"><b>Check out my portfolio →</b></a>
 </p>
